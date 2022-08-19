@@ -26,5 +26,5 @@
     </div>
 </section>
 <section class="cright-footer-custom">
-    <span class="text-center pt-3"><p class="text-light">copyright © 2021 Kreasindo Karya Media</p></span>
+    <span class="text-center pt-3"><p class="text-light">© 2021 Kreasindo Karya Media</p></span>
 </section>
