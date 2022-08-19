@@ -1,0 +1,30 @@
+div .row .wrap {
+	margin-top: 90px;
+	margin-bottom: 70px;
+
+}
+div .side-bar{
+	padding-top: 90px;
+}
+
+div .row .wrap img{
+	margin-bottom: 70px;
+	
+}
+div .credits{
+	margin-top: -70;
+	text-align: right;
+	font-family: arial;
+	color: white;
+	position: absolute;
+	bottom: -50px;
+	text-shadow: 700px;
+		font-size: 12;
+}
+
+div.caption{
+	margin-top: -70;
+	font-style: italic;
+	font-family: arial;
+	font-size: 12; 	
+}
